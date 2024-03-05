@@ -14,7 +14,7 @@ Our app will have the following features:
 
 ### Getting started
 
-Assuming you have rails and ruby installed on your machine ([learn how to here](https://web-crunch.com/lets-build-with-ruby-on-rails-installation/)) you are ready to begin. From your favorite working directory using your favorite command line tool run the following:
+Assuming you have rails and ruby installed on your machine you are ready to begin. From your favorite working directory using your favorite command line tool run the following:
 
 ```bash
 $ rails new dribbble_clone
